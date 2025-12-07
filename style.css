@@ -1,0 +1,39 @@
+
+
+body{
+    min-height: 2000px;
+}
+
+.jumbotron{
+    padding-top: 6rem;
+    background-color: rgb(71, 188, 255);
+    height: 50vh;
+}
+.box2{
+    background-color: aqua;
+    border-radius: 10px;
+    color: black;
+    padding: 10px;
+}
+
+#about{
+    padding-top: 2rem;
+    background-color: rgb(71, 188, 255);
+    height: 100vh;
+}
+#about .container{
+    margin-top: 100px;
+}
+
+#projec{
+    background-color: rgb(181, 220, 220);
+    height: 100vh;
+}
+.form-control:focus {
+  border-color: #0d6efd;        /* warna biru bootstrap */
+  box-shadow: 0 0 10px rgba(13, 110, 253, 0.5); /* glow biru */
+}
+.footer{
+ background-color: #0d6efd;
+ color: white;
+}
